@@ -1,5 +1,7 @@
 # Living Profile
 
+I like oreos
+
 ## After creating a repository from this template
 
 Repositories created from a template get its files, but none of its settings, so a few things need setting up once.
